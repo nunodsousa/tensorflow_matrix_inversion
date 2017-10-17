@@ -1,6 +1,6 @@
 # Tensorflow Matrix Inversion
 
-The evaluation of the inverse of a matrix is very common problem in science. Examples can be easily found in all subfields of physics, such as electrodynamics[1] or phase transitions[2].
+The numerical evaluation of the inverse of a matrix is very common problem in science. Examples can be easily found in all subfields of physics, such as electrodynamics[1] or phase transitions[2].
 
 Until know the vast majority of the calculations where made in CPUs. However in the last decade the GPUs get into the scene, due to a significant efford of hardware companies to adapt their hardware to scientific computation.
 The goal of this notebook is to show how to compute the inverse of a random complex matrix using tensorflow.
